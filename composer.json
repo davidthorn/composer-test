@@ -1,5 +1,6 @@
 {
 
+	"version" : "0.1.2",
 	"name" : "davidthorn/composer-test",
 	"description" : "This library is completely useless and not even worth looking at. It was created just to see how this works.",
 	"type" : "library",
