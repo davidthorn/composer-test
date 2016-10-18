@@ -1,0 +1,25 @@
+{
+
+	"name" : "davidthorn/composer-test",
+	"description" : "This library is completely useless and not even worth looking at. It was created just to see how this works.",
+	"type" : "library",
+    "keywords" : ["rubbish" , "useless" , "waste-of-time" , "give-up"],
+    "homepage" : "https://github.com/davidthorn",
+    "license" : "License of uselessness",
+    "authors" : [{
+    		"name" : "david Thorn"
+    }],
+    "require" : {
+        "php" : ">5.3",
+        "laravel/framework" : "5.2.*"
+    },
+    
+	"autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "classmap" : [ "non4" ]
+        
+        
+	}
+}
