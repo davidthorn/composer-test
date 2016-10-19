@@ -2,7 +2,7 @@
 
 	"name" : "davidthorn/composer-test",
 	"description" : "This library is completely useless and not even worth looking at. It was created just to see how this works.",
-	"type" : "package",
+	"type" : "library",
     "keywords" : ["rubbish" , "useless" , "waste-of-time" , "give-up"],
     "homepage" : "https://github.com/davidthorn",
     "license" : "License of uselessness",
